@@ -30,8 +30,12 @@ def process_markdown_files():
             if title == "Index":
                 title = "Home"
 
-            # Render with Jinja template
-            output_html = template.render(title=title, content=html_content)
+            if title in ["Home"]:
+                # Render with Jinja template
+                output_html = template.render(title=title, content=html_content, navbar="left")
+            else:
+                # Render with Jinja template
+                output_html = template.render(title=title, content=html_content, navbar="top")
 
             # Save as HTML in the root directory
             output_filename = os.path.splitext(md_file)[0] + ".html"
