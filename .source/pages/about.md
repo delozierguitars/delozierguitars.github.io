@@ -1,6 +1,6 @@
 # About...
 
-DeLozier Guitars is a small shop specializing in building and repairing guitars. 
+DeLozier Guitars is a small shop specializing in building and repairing guitars located in Cleveland, Ohio. 
 
 We have experience in repairing a variety of acoustic and electric guitars, from simple parts replacements to complex rebuilds.
 
