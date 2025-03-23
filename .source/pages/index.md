@@ -1,7 +1,5 @@
-![Logo](/media/delozier_guitars.jpg)
+<img src="/media/delozier_guitars_cropped.jpg" alt="Logo" style="width: 100%; height: auto;">
 
----
-# Welcome to DeLozier Guitars 🎸
 ---
 
 ### **Gallery of Our Work**
